@@ -79,7 +79,7 @@ Finally, Setup the listner for the reverse shell and web server for the payload 
 
 ![5.PNG]({{site.baseurl}}/assets/img/post/post7/5.PNG)
 
-Now you can execute the curl bash script which we created in step 4 and get the reverse shell as the tomcat user.
+Now you can execute the curl bash script which we created in step 4 and get the reverse shell as the tomcat user. 😎
 
 ## References 
 - https://www.redtimmy.com/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/
