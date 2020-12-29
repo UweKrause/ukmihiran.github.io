@@ -32,7 +32,6 @@ order: 4
     flex-direction: column;
     display: flex;
     justify-content: space-around;
-    padding: 100px;
 }
 </style>
 
