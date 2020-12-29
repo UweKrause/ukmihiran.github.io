@@ -6,7 +6,7 @@ categories: [Pentesting]
 tags: [Pentesting]
 ---
 
-# Apache Tomcat Server - Deserialization of Untrusted Data (RCE)
+# Apache Tomcat Remote Code Execution - Deserialization of Untrusted Data
 
 Apache Tomcat is an open-source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and WebSocket technologies. In this post we will dive into the analaysis of a vulnerability in the apache tomcat server 9.0.27. 
 - [CVE - 2020-9484](https://nvd.nist.gov/vuln/detail/CVE-2020-9484 "CVE - 2020-9484")
