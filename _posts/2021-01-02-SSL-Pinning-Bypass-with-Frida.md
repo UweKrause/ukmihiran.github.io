@@ -40,7 +40,7 @@ Now we can configure proxy settings in our virtual mobile device. Go to the virt
 
 ![5.PNG]({{site.baseurl}}/assets/img/post/post8/5.PNG)
 
-## Step 2: Connect Android Device with adb
+## Step 2: Connect to Android Device with adb
 
 To run the commands on android device we need to connect our device to adb. But to do that we need to go to the settings of the device or the emulator then to **Developer Options** and start the **debugging mode**.
 
