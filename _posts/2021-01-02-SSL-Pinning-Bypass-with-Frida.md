@@ -64,7 +64,7 @@ After that you can just run the `Frida --help` to make sure it was correctly ins
 
 ![7.PNG]({{site.baseurl}}/assets/img/post/post8/7.PNG)
 
-We have installed Frida-tools properly. Now, we need to download Frida server executable file. Before download the Frida server we need to find out what type of processor architecture have our device. you can find it using following command.
+We have installed Frida-tools properly. Now, we need to download Frida server executable file. Before installation, you need to select Frida server according to different CPU architectures. In fact, you can also see from the macro level that the core function of Frida is to supervise the operation of CPU and memory. Now the mainstream CPU architecture of Android is divided into x86 and arm architecture, so you can enter below command to find CPU architecture of Android phone.
 
 ```shell
 adb shell getprop ro.product.cpu.abi
