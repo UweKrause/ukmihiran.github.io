@@ -20,7 +20,7 @@ Pre-Conditions:
 
 ## Step 1: Install Burp Certificate
 
-First, we need to configure our burp suit proxy. The below image describe how I configured my proxy listener. 
+First, we need to configure our burp suite proxy.
 
 ![1.PNG]({{site.baseurl}}/assets/img/post/post8/1.PNG)
 
