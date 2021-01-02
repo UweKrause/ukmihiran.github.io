@@ -4,6 +4,7 @@ author: Udesh
 date: 2021-01-02
 categories: [Pentesting]
 tags: [Pentesting]
+image: {{site.baseurl}}/assets/img/post/post8/header.png
 ---
 
 # SSL Pinning bypass with frida for beginners 
