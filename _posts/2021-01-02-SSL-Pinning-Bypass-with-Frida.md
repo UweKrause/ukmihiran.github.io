@@ -42,7 +42,7 @@ Now we can configure proxy settings in our virtual mobile device. Go to the virt
 
 ## Step 2: Connect to Android Device with adb
 
-To run the commands on android device we need to connect our device to adb. But to do that we need to go to the settings of the device or the emulator then to **Developer Options** and start the **debugging mode**.
+To run the commands on android device we need to connect our device to adb. But to do that we need to go to the settings of the device or the emulator then to **Developer Options** and start the **USB-debugging mode**.
 
 After that we can run the following command to connect our android device.
 ```shell
