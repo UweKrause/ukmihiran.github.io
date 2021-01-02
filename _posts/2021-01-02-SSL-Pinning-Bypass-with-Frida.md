@@ -7,8 +7,6 @@ tags: [Pentesting]
 image: {{site.baseurl}}/assets/img/post/post8/header.png
 ---
 
-# SSL Pinning bypass with frida for beginners 
-
 This article will explain how to bypass SSL pinning of android applications using Frida framework. So basically Frida is a tool that let you inject scripts to native apps (in this case Android apps) to modify the application behavior (in this case, SSL pinning bypass and can perform a MitM attack, even if the application has https / SSL connections) and make dynamic test in real time.
 
 In this blog post will include:
