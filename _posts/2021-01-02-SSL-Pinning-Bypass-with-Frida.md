@@ -64,7 +64,7 @@ After that you can just run the `Frida --help` to make sure it was correctly ins
 
 ![7.PNG]({{site.baseurl}}/assets/img/post/post8/7.PNG)
 
-We have installed Frida-tools properly. Now, we need to download Frida server executable file. Before download the Frida server we need to find out what type of processor architecture have our device. you can enter following command to find it.
+We have installed Frida-tools properly. Now, we need to download Frida server executable file. Before download the Frida server we need to find out what type of processor architecture have our device. you can find it using following command.
 
 ```shell
 adb shell getprop ro.product.cpu.abi
@@ -73,7 +73,7 @@ output: x86
 
 ![8.PNG]({{site.baseurl}}/assets/img/post/post8/8.PNG)
 
-Well, after knowing the arch then you can download the properly Frida server version for our device. download it from this [link](https://github.com/frida/frida/releases "link"). In this case I have downloaded frida-server-14.1.0-android-x86 version of Frida server. 
+Well, after knowing the arch, you can download the Frida server according to CPU architecture. download frida server from this [link](https://github.com/frida/frida/releases "link"). In this case I have downloaded frida-server-14.1.0-android-x86 version of Frida server. 
 
 Once you downloaded it, we need to copy the Frida server binary to the android device with adb.
 
