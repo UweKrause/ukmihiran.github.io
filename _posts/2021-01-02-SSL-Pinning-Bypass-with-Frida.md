@@ -1,7 +1,7 @@
 ---
 title: SSL Pinning Bypass with Frida for Beginners
 author: Udesh
-date: 2020-12-29
+date: 2021-1-2
 categories: [Pentesting]
 tags: [Pentesting]
 image: {{site.baseurl}}/assets/img/post/post8/header.png
