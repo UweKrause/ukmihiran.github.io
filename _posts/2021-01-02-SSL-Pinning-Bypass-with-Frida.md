@@ -24,7 +24,7 @@ First, we need to configure our burp suite proxy.
 
 ![1.PNG]({{site.baseurl}}/assets/img/post/post8/1.PNG)
 
-We have configured our proxy as bind address 192.168.8.127 and bind port 8080. Now, go to mobile phone browser and navigate the proxy's IP and port (http://192.168.8.127:8080) and download the proxy's certificate by clicking on **CA certificate**.
+As shown above I have configured my proxy as bind address 192.168.8.127 and bind port 8080. Now, go to mobile phone browser and navigate the proxy's IP and port (http://192.168.8.127:8080) and download the proxy's certificate by clicking on **CA certificate**.
 
 ![2.PNG]({{site.baseurl}}/assets/img/post/post8/2.PNG)
 
