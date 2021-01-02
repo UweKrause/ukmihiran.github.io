@@ -111,3 +111,8 @@ frida -U -f com.twitter.android -l sslbypass.js --no-pause
 Once all things go well, all traffic of the target app will get intercepted into Burp Suite. 😎
 
 ![11.PNG]({{site.baseurl}}/assets/img/post/post8/11.PNG)
+
+## References
+
+- https://codeshare.frida.re/@akabe1/frida-multiple-unpinning/
+- https://github.com/frida/frida/releases
