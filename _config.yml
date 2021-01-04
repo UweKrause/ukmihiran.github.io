@@ -1,7 +1,11 @@
 #Site Settings
 title: Cyberbotnet              
 tagline: Cyber Security Blog.
-description: >-  # used by seo meta and the atom feed
+description: >- 
+                  Cyberbotnet is a widely-read cybersecurity blog site that addresses professional from the cyber security industry,
+                  security researchers, and penetration testers. this blog provide experience and knowledge about penetration testing,
+                  news and information on cyber security landscape.
+                  
 url: 'https://ukmihiran.github.io'
 author: Udesh               
 avatar: 
