@@ -4,8 +4,6 @@ layout: compress
 
 ---
 
-
-
 {% assign icon_url = "/assets/img/favicons" | relative_url %}
 
 {
