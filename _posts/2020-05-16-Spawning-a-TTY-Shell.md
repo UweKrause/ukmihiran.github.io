@@ -20,7 +20,7 @@ perl -e 'exec "/bin/sh";'
 ```ruby
 ruby: exec "/bin/sh"
 ```
-**lau:**
+**lua:**
 ```lua
 lua: os.execute('/bin/sh')
 ```
